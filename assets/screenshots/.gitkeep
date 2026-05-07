@@ -1,0 +1,10 @@
+# Screenshots Directory
+
+Save all evidence screenshots from irctc.co.in exploration here.
+
+Naming convention: problem-[number]-[description].png
+
+Example:
+- problem-4-payment-status.png
+- problem-5-pnr-page.png
+- problem-6-mobile-dropdown.png
