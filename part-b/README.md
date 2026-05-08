@@ -71,6 +71,8 @@ Every deliverable in Part B traces directly back to evidence from Part A. No spe
 
 **Wireframe format:** Text-based ASCII + description (for production, migrate to Figma)
 
+**Figma link:** [IRCTC-Sprint Wireframes](https://www.figma.com/design/ACHvrvfTTa4JoBojMc668s/IRCTC-Sprint?node-id=0-1&t=Bua8yCnC5GvIV7dT-1)
+
 ---
 
 ### 3. AI Feature Proposal (AI-FEATURE.md)

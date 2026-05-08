@@ -84,6 +84,10 @@ Once Part A is complete, Part B will contain:
 - **AI-FEATURE.md** — AI proposal addressing one key pain point
 - **MATRIX.md** — 2×2 prioritization matrix (impact vs effort)
 
+### Figma Wireframes
+
+- **Design File:** [IRCTC-Sprint Figma](https://www.figma.com/design/ACHvrvfTTa4JoBojMc668s/IRCTC-Sprint?node-id=0-1&t=Bua8yCnC5GvIV7dT-1)
+
 ---
 
 ## Evidence & Screenshots
