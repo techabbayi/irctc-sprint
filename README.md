@@ -2,7 +2,7 @@
 
 A comprehensive design engineering and AI feature sprint to audit and rescue the Indian Railways Catering and Tourism Corporation (IRCTC) platform.
 
-**Status:** Part A — Problem Discovery (In Progress)
+**Status:** Part A & Part B — COMPLETE
 
 ---
 
@@ -83,6 +83,10 @@ Once Part A is complete, Part B will contain:
 - **SPECS.md** — Detailed feature specifications for each problem
 - **AI-FEATURE.md** — AI proposal addressing one key pain point
 - **MATRIX.md** — 2×2 prioritization matrix (impact vs effort)
+
+### Figma Wireframes
+
+- **Design File:** [IRCTC-Sprint Figma](https://www.figma.com/design/ACHvrvfTTa4JoBojMc668s/IRCTC-Sprint?node-id=0-1&t=Bua8yCnC5GvIV7dT-1)
 
 ---
 
